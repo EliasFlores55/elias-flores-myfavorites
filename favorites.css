@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+
+.title{
+    color:lime;
+}
+.one{
+    color:orange;
+}
+
+.two {
+    color:yellow;
+}
+
+.picone {
+    max-width: 200px;
+    max-height: 200px;
+}
+.pictwo {
+    max-width: 100px;
+    max-height: 100px;
+    padding-left: 40px;
+}
+.three{
+    color:aquamarine;
+}
+#new {
+    color: white;
+}
